@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mlaruns
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, design, architecture
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on aws
 - 📫 You can reach here
